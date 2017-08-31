@@ -1,7 +1,7 @@
 // Trabajo: Formulario con conexión a MySQL
 
 /**
- * @author Diego
+ * @author Gomez Tapia Hector
  * Grupo: 5IM8
  * @version 1.0
  */

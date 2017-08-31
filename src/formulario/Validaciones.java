@@ -1,5 +1,5 @@
 /**
- * @author Fernandez Herrera Diego
+ * @author Gomez Tapia Hector
  * Grupo: 5IM8
  * @version 1.0
  *

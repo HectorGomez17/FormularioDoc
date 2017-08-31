@@ -1,5 +1,5 @@
 /**
- * @author Fernandez Herrera Diego
+ * @author Gomez Tapia Hector
  * Grupo: 5IM8.
  * @version 1.0
  */
@@ -21,7 +21,7 @@ import java.awt.event.KeyEvent;
 
 /**
  * Clase FormularioInterfaz
- * @author Diego
+ * @author Gomez Tapia Hector
  */
 public class FormularioInterfaz extends JFrame implements ActionListener {
     
